@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite1" verbose="1" >
+    <listeners>
+        <listener class-name="org.AppiumAutomationFramework.TestCases.TestCases_android.listener"></listener>
+    </listeners>
+    <test name="End To End FrameWork Test">
+        <classes>
+            <class name="org.AppiumAutomationFramework.TestCases.TestCases_android.Ecommerce_Website_TestCase"/>
+        </classes>
+    </test>
+</suite>

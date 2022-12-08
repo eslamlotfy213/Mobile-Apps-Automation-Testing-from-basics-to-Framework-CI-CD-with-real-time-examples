@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c8eeceea-e395-4136-a7fe-4326dc7470fb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test Results - Ecommerce_Validation_Login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNgSuits/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNgSuits/testngSmoke.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/AppiumAutomationFramework/PagesObjects/android/CartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/AppiumAutomationFramework/PagesObjects/android/Formpage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/AppiumAutomationFramework/PagesObjects/android/ProductCatalogepage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/AppiumAutomationFramework/utils/AndroidAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/AppiumAutomationFramework/utils/AppiumUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/AppiumAutomationFramework/utils/IOSAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/AppiumAutomationFramework/TestCases/TestCases_android/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/AppiumAutomationFramework/TestCases/TestCases_android/Ecommerce_Validation_Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/AppiumAutomationFramework/TestCases/TestCases_android/Ecommerce_Website_TestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/AppiumAutomationFramework/TestCases/TestCases_android/ExtentReporterNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/AppiumAutomationFramework/TestCases/TestCases_android/listener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/AppiumAutomationFramework/TestCases/Testdata/eCommerce.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/AppiumAutomationFramework/TestCases/resources/ApiDemos-debug.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/AppiumAutomationFramework/TestCases/resources/General-Store.apk" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" userTempatePath="" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IAsEyuYrNKTOZ8MpCPinIreEvQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Eslam.Lotfy/IdeaProjects/Mobile_Automation_Framework/TestNgSuits&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Eslam.Lotfy\IdeaProjects\Mobile_Automation_Framework\TestNgSuits" />
+      <recent name="C:\Users\Eslam.Lotfy\IdeaProjects\Mobile_Automation_Framework" />
+      <recent name="C:\Users\Eslam.Lotfy\IdeaProjects\Mobile_Automation_Framework\src\test" />
+      <recent name="C:\Users\Eslam.Lotfy\IdeaProjects\Mobile_Automation_Framework\src\test\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Eslam.Lotfy\IdeaProjects\Mobile_Automation_Framework\src\test\java\Resouces" />
+      <recent name="C:\Users\Eslam.Lotfy\IdeaProjects\Mobile_Automation_Framework\src\main\java\resources" />
+      <recent name="C:\Users\Eslam.Lotfy\IdeaProjects\Mobile_Automation_Framework\src\test" />
+      <recent name="C:\Users\Eslam.Lotfy\IdeaProjects\Mobile_Automation_Framework\src\test\java\re" />
+      <recent name="C:\Users\Eslam.Lotfy\IdeaProjects\Mobile_Automation_Framework\src\test\res" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.AppiumAutomationFramework.utils" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Ecommerce_Website_TestCase">
+    <configuration name="C:/Users/Eslam.Lotfy/IdeaProjects/Mobile_Automation_Framework/testingSmoke.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Appium_Automation_Framework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testingSmoke.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Eslam.Lotfy/IdeaProjects/Mobile_Automation_Framework/testing.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Appium_Automation_Framework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testing.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ecommerce_Validation_Login" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Appium_Automation_Framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.AppiumAutomationFramework.TestCases.TestCases_android.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.AppiumAutomationFramework.TestCases.android" />
+      <option name="MAIN_CLASS_NAME" value="org.AppiumAutomationFramework.TestCases.TestCases_android.Ecommerce_Validation_Login" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ecommerce_Validation_Login.FllFormByInValidDate" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Appium_Automation_Framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.AppiumAutomationFramework.TestCases.TestCases_android.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.AppiumAutomationFramework.TestCases.android" />
+      <option name="MAIN_CLASS_NAME" value="org.AppiumAutomationFramework.TestCases.TestCases_android.Ecommerce_Validation_Login" />
+      <option name="METHOD_NAME" value="FllFormByInValidDate" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ecommerce_Website_TestCase" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Appium_Automation_Framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.AppiumAutomationFramework.TestCases.TestCases_android.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.AppiumAutomationFramework.TestCases.android" />
+      <option name="MAIN_CLASS_NAME" value="org.AppiumAutomationFramework.TestCases.TestCases_android.Ecommerce_Website_TestCase" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Ecommerce_Website_TestCase" />
+        <item itemvalue="TestNG.C:/Users/Eslam.Lotfy/IdeaProjects/Mobile_Automation_Framework/testingSmoke.xml" />
+        <item itemvalue="TestNG.C:/Users/Eslam.Lotfy/IdeaProjects/Mobile_Automation_Framework/testing.xml" />
+        <item itemvalue="TestNG.Ecommerce_Validation_Login" />
+        <item itemvalue="TestNG.Ecommerce_Validation_Login.FllFormByInValidDate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8eeceea-e395-4136-a7fe-4326dc7470fb" name="Changes" comment="" />
+      <created>1669635616845</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669635616845</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
